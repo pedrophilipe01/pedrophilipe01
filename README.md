@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ## Olá! Eu sou o Pedro Philipe estudante de programação e tecnologia.
 
