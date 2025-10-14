@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrophilipe01&label=Profile%20views&color=0e75b6&style=flat" alt="pedrophilipe01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrophilipe01" alt="pedrophilipe01" /></a> </p>
-
 - 🌱 Estou aprendendo atualmente **Java, Redes e Infraestrutura, Linux e Segurança da Informação**
 
 - 👨‍💻 Aqui está meu portfólio [Em breve vou colocar meu portfólio](Em breve vou colocar meu portfólio)
