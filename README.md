@@ -7,7 +7,7 @@
 
 - 🌱 Estou aprendendo atualmente **Java, Redes e Infraestrutura, Linux e Segurança da Informação**
 
-- 👨‍💻 Aqui está meu portfólio [Em breve vou colocar meu portfólio](Em breve vou colocar meu portfólio)
+- 👨‍💻 Aqui está meu portfólio [Em breve vou colocar meu portfólio]
 
 - 📫 Como entrar em contato comigo **pedrophilipe183@gmail.com**
 
