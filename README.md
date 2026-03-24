@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrophilipe01&label=Profile%20views&color=0e75b6&style=flat" alt="pedrophilipe01" /> </p>
 
-- 🌱 Estou aprendendo atualmente **Java, Redes e Infraestrutura, Linux, Segurança da Informação.**
+- 🌱 Estou aprendendo atualmente **Node JS, Redes e Infraestrutura, Linux, Segurança da Informação, Express JS**
 
 - 👨‍💻 Aqui está meu portfólio [Em breve vou colocar meu portfólio]
 
